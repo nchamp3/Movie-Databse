@@ -1,5 +1,5 @@
 # Movie-Databse
-GUI application for retrieving Netflix movie information.
+This application implements an **N-tier Design** to retrieve movie information from a Netflix database.
 
     Tiers:
             1. Presentation – Used to interact with the user (GUI)
