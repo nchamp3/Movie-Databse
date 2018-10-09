@@ -8,3 +8,4 @@ This application implements an **N-tier Design** to retrieve movie information f
             4. Data Store - Data repository
 
 **************************************************************************
+**Note**: Database files (.mdf and .ldf) are located in Movie-Databse/NetflixApp/NetflixApp/bin/Debug/
