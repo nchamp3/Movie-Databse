@@ -1,2 +1,10 @@
 # Movie-Databse
-GUI application for retrieving Netflix movie information. (N-tier Design)
+GUI application for retrieving Netflix movie information.
+
+    Tiers:
+            1. Presentation – Used to interact with the user (GUI)
+            2. Business – Supports the security, business rules, and data processing needed by the application.
+            3. Data Access – Interface between business tier and data store
+            4. Data Store - Data repository
+
+**************************************************************************
